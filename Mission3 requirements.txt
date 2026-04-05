@@ -1,0 +1,10 @@
+google
+matplotlib==3.6.3
+numpy==1.24.0
+opencv-python
+pathlib
+rasterio
+scikit-image
+scikit-learn
+tensorflow
+tifffile
